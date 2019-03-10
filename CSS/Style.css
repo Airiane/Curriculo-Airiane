@@ -1,0 +1,91 @@
+body{
+	font-family: arial;
+}
+.tudo{
+	padding: 5px 5px 5px 5px;
+}
+
+h1{
+	background-color: #86ba5d;
+	color: #000000;
+	padding: 10px 10px 10px 10px;
+	text-align: center;
+	border-radius: 10px;
+	letter-spacing: 2px;
+	font-size: 35px;
+}
+.linha{
+	clear: both;
+}
+#divfoto{
+	float: left;
+	padding-left: 10px;
+	width: 20%;
+}
+#foto{
+	border-radius: 50%;
+	border: 5px solid;
+	max-width: 180px;
+}
+#divdados{
+	float: right;	
+	width: 75%;
+	padding-top: 35px;
+	font-size: 17px;
+}
+.dados{
+	color: #7be54e;
+}
+.unica{
+	clear: both;
+}
+#divhab{
+	float: left;
+	width: 40%;
+	margin-top: 10px;
+}
+#divexp{
+	float: right;
+	width: 50%;
+	text-align: left;
+}
+#linha3{
+	float: left;
+	width: 40%;
+}
+.itens{
+	float: left;
+	width: 30%;
+	margin-top: 0px;
+}
+.divcirc{
+	float: right;
+	width: 70%;
+}
+.circle{
+	background-color: #86ba5d;
+	border-radius: 100%;
+	width: 18px;
+	height: 18px;
+	margin-left: 18px;
+	float: right;
+}
+.circle0{
+	border-radius: 100%;
+	border: 1px solid;
+	border-color: #7be54e;
+	width:17px;
+	height: 17px;
+	margin-left: 18px;
+	float: right;
+}
+.cargo{
+	color: #aab5aa;
+}
+hr{
+	width: 95%;
+	border-color: #7be54e;
+}
+#riscedit{
+	width: 45%;
+}
